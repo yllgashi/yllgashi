@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-### Hi there 👋
-
-- 🔭 I’m currently working on my count project
+- 🔭 I’m currently working on my github projects
 - 🌱 I’m currently learning angular and node
-- 📫 Contact me on telegram: @yllgashi
+- 📫 I'm open for new opportunities
+- 💬 Contact me on telegram: @yllgashi
 
 <!--
 **yllgashi/yllgashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
