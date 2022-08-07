@@ -1,5 +1,4 @@
 ### Hi there 👋
  
-- 🅰️ I find myself mostly working with: Angular, C# and Transact-SQL.
-- 📱 Often, I work with mobile technologies such as Flutter or React Native.
+- 🅰️ I find myself mostly working with: Angular, C# and NodeJS.
 - 🔥 Eager to learn new technologies.
